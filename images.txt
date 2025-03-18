@@ -1,2 +1,2 @@
 nginx
-dzpcr/nginx:latest
+ubuntu
